@@ -79,6 +79,6 @@ Infrastructure architecture and deployment for a Spring Boot web service.
 
 ## 📊 GitHub Stats
 
-![Hyunmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=signife&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=signife&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=signife&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=signife&layout=compact&theme=transparent&hide_border=true)
