@@ -36,17 +36,33 @@ Issued: September 2026
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Backend
+### Programming Languages
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Database
+### AI / Computer Vision
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
 
 ---
+## 💼 Experience
+
+### 🤖 AI / Software Engineering Intern | Minicode
+📍 Brisbane, Australia | Oct 2024 – Dec 2024
+
+- Developed an automated **smoke alarm image inspection pipeline** using deep learning and OCR.
+- Built and evaluated image classification models based on **EfficientNet-B4/B5**, achieving approximately **0.94 F1-score**.
+- Applied **PaddleOCR** to extract and validate expiry date information from smoke alarm images.
+- Improved model performance through image preprocessing, dataset analysis, and iterative experimentation.
+- Collaborated in an Agile development environment using **Jira, Confluence, Bitbucket, Docker, and Google Colab**.
+
+**Tech Stack:**  
+`Python` `PyTorch` `OpenCV` `EfficientNet` `PaddleOCR` `Docker`
 
 ## 🚀 Projects
 
