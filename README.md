@@ -15,7 +15,7 @@
 
 ### ☁️ AWS Certified Solutions Architect – Associate
 
-[![AWS Certified](여기에_AWS_배지_이미지_URL)](https://www.credly.com/badges/7a0db53f-3cfc-4d23-b08f-0330aa2336e6/public_url)
+[![AWS Certified Solutions Architect – Associate](CREDLY_IMAGE_URL)](https://www.credly.com/badges/7a0db53f-3cfc-4d23-b08f-0330aa2336e6/public_url)
 
 **Amazon Web Services (AWS)**  
 Issued: September 2026
