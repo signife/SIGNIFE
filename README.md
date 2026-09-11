@@ -5,14 +5,9 @@
 
 ## 🔗 Links
 
-| Platform | 🚀 Projects | 💼 LinkedIn | 🐱 GitHub |
+| Platform | 🚀 Project | 💼 LinkedIn | 📧 Email |
 |---|---|---|---|
-| Link | [View Projects](https://github.com/signife?tab=repositories) | [Connect on LinkedIn](https://www.linkedin.com/in/hyunmin-oh-9198b32a5/) | [Visit GitHub](https://github.com/signife) |
-
-## 🔗 Links
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hyunmin%20Oh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyunmin-oh-9198b32a5/)
-[![GitHub](https://img.shields.io/badge/GitHub-signife-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/signife)
+| Link | [YoRiMiChi](https://www.yorimichi.cloud) | [Connect on LinkedIn](https://www.linkedin.com/in/hyunmin-oh-9198b32a5/) | [Send Email](mailto:gusals0908@gmail.com) |
 
 ---
 
