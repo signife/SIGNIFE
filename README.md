@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Hyunmin 👋
 
-<!--
-**signife/SIGNIFE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud / Infrastructure Engineer
 
-Here are some ideas to get you started:
+## Certifications
+- AWS Certified Solutions Architect – Associate
+- JLPT N1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- AWS
+- Terraform
+- Docker
+- Linux
+- Java / Spring Boot
+- MySQL / Oracle
+
+## Projects
+- YoRiMiChi AWS Infrastructure
+- Smoke Alarm AI Automation
