@@ -75,15 +75,6 @@ Infrastructure architecture and deployment for a Spring Boot web service.
 - **CI/CD:** GitHub Actions
 - Designed and managed AWS infrastructure for a team project.
 
-### 🤖 Smoke Alarm AI Automation
-
-AI-based smoke alarm image inspection automation developed during an internship in Australia.
-
-- EfficientNet
-- PaddleOCR
-- Docker
-- Automated image validation and OCR pipeline
-
 ---
 
 ## 📊 GitHub Stats
